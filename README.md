@@ -1,15 +1,15 @@
 ## Hello 👋, this is Rui:) 
 
-<!-- Typing animation by specialization -->
-<p align="center">
-    <img src="assets/svg/short-intro.svg" width="600"/><br/>
-</p>
-
----
-
 ## About Me
 
 Hi! I’m currently a Master’s student in Computer Science, and also a long-time Druid main in World of Warcraft.
+
+<!-- Typing animation by specialization -->
+<p align="center">
+    <a href="https://github.com/ruis0ng">
+        <img src="assets/svg/short-intro.svg" width="600"/>
+    </a>    
+</p>
 
 **Guardian** is my favorite spec — I love being a reliable tank, always there for the team.  
 My favorite form? Definitely the **Felhunter Bear**. That green glow? Iconic.
