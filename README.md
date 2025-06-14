@@ -2,10 +2,7 @@
 
 <!-- Typing animation by specialization -->
 <p align="center">
-    <img src="assets/svg/Guardian.svg" width="600"/><br/>
-    <img src="assets/svg/Balance.svg" width="600"/><br/>
-    <img src="assets/svg/Feral.svg" width="600"/><br/>
-    <img src="assets/svg/Restoration.svg" width="600"/>
+    <img src="assets/svg/short-intro.svg" width="600"/><br/>
 </p>
 
 ---
@@ -42,13 +39,13 @@ I like to try running it myself and dig around to see how it works.
 Most of my projects start with a simple idea or personal need — and a bit of curiosity.
 
 For example:  
-To help myself stay focused while coding, I built **FocusBloom** — a minimal app that gives real-time visual feedback on my focus level, built with `Vue.js` and `Electron`.
+To help myself stay focused while coding, I built <a href="https://github.com/ruis0ng/FocusBloom">**FocusBloom**</a> — a minimal app that gives real-time visual feedback on my focus level, built with `Vue.js` and `Electron`.
 
 ---
 
 ## Spec Overview (Druid ↔ Developer)
 
-| <img src="assets/wow_icon/spell_nature_starfall.jpg" width="40"/> | **Balance** | I care about cross-platform compatibility and containerized setups — Docker, Windows/macOS support, that kind of thing. |
+| <img src="assets/wow_icon/spell_nature_starfall.jpg" width="40"/> | **Balance** | I care about cross-platform compatibility and containerized setups — Docker, Windows/macOS support, etc. |
 |:--:|:--|:--|
 | <img src="assets/wow_icon/ability_druid_catform.jpg" width="40"/> | **Feral** | I like building fast, responsive UIs with modern tools like Vue and Next.js. |
 | <img src="assets/wow_icon/ability_racial_bearform.jpg" width="40"/> | **Guardian** | I enjoy learning across domains — I may be a beginner, but I stay calm, curious, and persistent. |
