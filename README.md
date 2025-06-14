@@ -1,6 +1,6 @@
 ## Hello 👋, this is Rui:) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7FF8E&width=435&lines=Balance+%E2%86%92+Building+cross-platform+%26+container-friendly+apps;Feral+%E2%86%92+Building+fancy+UIs+with+modern+packages+and+frameworks.;Guardian+%E2%86%92+Calm+learner+across+different+domains;Restoration+%E2%86%92+Confident+in+debugging+%26+recovery)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB519&multiline=true&width=600&height=200&lines=Balance+%E2%86%92+Building+cross-platform+apps;Feral+%E2%86%92+Building+fancy+UIs+in+modern+ways;Guardian+%E2%86%92+Calm+learner+across+different+domains;Restoration+%E2%86%92+Confident+in+debugging+%26+recovery)](https://git.io/typing-svg)
 
 
 
