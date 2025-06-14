@@ -25,9 +25,9 @@ I’ve been learning full-stack development and have used:
 - **Python**
 - **HTML**, **CSS**, **JavaScript**
 - **FastAPI** for building lightweight backends
-- **Vue.js** and **Next.js** for modern frontend development
-- **Electron** for desktop app experiments
-- **Docker** to containerize small projects
+- **Vue.js** and **Next.js** for frontend development
+- **Electron** for desktop app development
+- **Docker** to containerize projects
 
 I enjoy exploring open-source projects — whenever I find something interesting online,
 I like to try running it myself and dig around to see how it works.
