@@ -14,6 +14,11 @@ Hi! I’m currently a Master’s student in Computer Science, and also a long-ti
 **Guardian** is my favorite spec — I love being a reliable tank, always there for the team.  
 My favorite form? Definitely the **Felhunter Bear**. That green glow? Iconic.
 
+> Visual proof that I have this style:
+<p align="center">
+  <img src="assets/myFelhunterBear.png" width="300" alt="Felhunter Bear Form"/>
+</p>
+
 I try to bring the same mindset to how I work: steady, adaptable, and always happy to support my team however I can.
 
 ---
